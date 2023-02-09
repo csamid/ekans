@@ -9,4 +9,8 @@ readme = "README.md"
 requires-python = ">=3.7"
 
 [project.scripts]
+<<<<<<< HEAD
 play-ekans = "myekans.__main__:main"
+=======
+play-ekans = "myekans.__main__:main"
+>>>>>>> cd9f4811530f0344d66b4828a57f290b3849f4c9
