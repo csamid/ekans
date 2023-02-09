@@ -9,4 +9,4 @@ readme = "README.md"
 requires-python = ">=3.7"
 
 [project.scripts]
-run_myekans = "myekans.__main__:main"
+play-ekans = "myekans.__main__:main"
