@@ -3,10 +3,10 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "myekans"
+name = "ekans"
 version = "1.0.0"
 readme = "README.md"
 requires-python = ">=3.7"
 
 [project.scripts]
-run_myekans = "myekans.__main__:main"
+play-ekans = "myekans.__main__:main"
