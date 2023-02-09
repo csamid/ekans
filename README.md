@@ -3,11 +3,6 @@
 A python snake game made while learning python.
 
 
-### Why should I use this project ?
-
-It makes it easy to analyse excel files with temperatures in them.
-
-
 ## Installation
 
 Ekans requires Python version `3.7` or above to run.
