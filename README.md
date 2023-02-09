@@ -20,7 +20,7 @@ python -m pip install ekans
 
 To play Ekans you can run the script from the command-line using:
 ```
-python play-ekans
+play-ekans
 ```
 
 Close the window to stop playing :)
