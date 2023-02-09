@@ -11,12 +11,14 @@ Download the zip of this repository on your machine
 Then extract the files
 
 You can now install Ekans from the command-line using:
-`python -m pip install ekans`
+```
+python -m pip install ekans
+```
 
 
 ## Usage
 
-To play Ekans you can run the script from the command-line using
+To play Ekans you can run the script from the command-line using:
 ```
 python play-ekans
 ```
