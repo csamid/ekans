@@ -7,9 +7,9 @@ A python snake game made while learning python.
 
 Ekans requires Python version `3.7` or above to run.
 
-Download the latest release [here](https://github.com/csamid/ekans/releases/latest)
+Download the zip file from the latest release [here](https://github.com/csamid/ekans/releases/latest).
 
-Then extract the files
+Then extract the files.
 
 You can now install Ekans from the command-line using:
 ```
